@@ -3,7 +3,9 @@ This tool allows a user to select two separate youtube playlists and play songs 
 
 The user sets how much each list is weighted - The intended functionality of this is to pull songs from a very large list of old liked songs, and also draw from a current playlist of new liked songs at a much higher rate.
 
-This requires mpv to be installed. "Fast Setup" currently defaults to my exact needs. If I improve this tool in the future, I'll add functionality to save user preferences and set them to fast setup.
+main.py is the primary Python script that runs the tool. personal.py just skips the UI and immediately runs fast setup.
+
+This tool requires mpv to be installed. "Fast Setup" currently defaults to my exact needs. If I improve this tool in the future, I'll add functionality to save user preferences and set them to fast setup.
 
 Other avenues of improvement:
 
