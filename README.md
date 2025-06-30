@@ -7,10 +7,10 @@ This requires mpv to be installed. "Fast Setup" currently defaults to my exact n
 
 Other avenues of improvement:
 
-Add the ability to draw from any number of playlists, not just 2
-Add a log for the title of each song played instead of just "new song started"
-Some songs wind up sounding abnormally quiet, but all my attempts at normalizing the volume result in every individual song having the same volume throughout, which just sounded wrong for songs with big peaks and valleys
-Make the Tkinter UI less hideous
-Try to autodetect mpv filepath
-Remove use of global variables
-Add functionality for media players other than mpv
+1. Add the ability to draw from any number of playlists, not just 2
+2. Add a log for the title of each song played instead of just "new song started"
+3. Some songs wind up sounding abnormally quiet, but all my attempts at normalizing the volume result in every individual song having the same volume throughout, which just sounded wrong for songs with big peaks and valleys
+4. Make the Tkinter UI less hideous
+5. Try to autodetect mpv filepath
+6. Remove use of global variables
+7. Add functionality for media players other than mpv
